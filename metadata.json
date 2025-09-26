@@ -1,0 +1,5 @@
+{
+  "name": "PowerSense AI - Load Shedding Optimizer",
+  "description": "An intelligent application to help you manage and optimize your power consumption during load shedding. Integrates with schedules, controls smart devices, and provides AI-powered predictions to ensure you're never left in the dark.",
+  "requestFramePermissions": []
+}
